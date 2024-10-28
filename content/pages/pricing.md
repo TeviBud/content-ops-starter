@@ -23,7 +23,7 @@ sections:
           - Feature three
           - Feature four
         image:
-          url: /images/Screenshot 2024-10-28 215750.png
+          url: /images/Screenshot 2024-10-28 220122.png
           altText: Pricing plan 1
           type: ImageBlock
         actions:
