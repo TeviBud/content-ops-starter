@@ -47,9 +47,13 @@ sections:
       - title: Application Development
         price: $5000
         details: starting price
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+
+          Bring your ideas to life with our professional app development
+          services. We create custom, user-friendly mobile and web applications
+          tailored to your business needs, ensuring seamless performance and an
+          engaging user experience
+
         features:
           - Feature one
           - Feature two
