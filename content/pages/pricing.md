@@ -83,9 +83,12 @@ sections:
       - title: Website Design
         price: $500
         details: starting price
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >+
+          Transform your online presence with our custom web design services. We
+          create visually stunning, user-friendly websites tailored to your
+          brand's unique needs, ensuring an engaging experience that drives
+          results
+
         features:
           - Feature one
           - Feature two
