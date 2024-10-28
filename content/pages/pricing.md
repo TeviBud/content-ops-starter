@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Choose a plan
+      text: Choose au plan
       color: text-dark
       styles:
         self:
