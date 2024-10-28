@@ -29,7 +29,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /Home
+            url: /home
             icon: arrowRight
             iconPosition: right
             style: secondary
