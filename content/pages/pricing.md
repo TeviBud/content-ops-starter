@@ -65,7 +65,7 @@ sections:
           type: ImageBlock
         actions:
           - label: Contact us
-            url: /#contactForm
+            url: /#ContactForm
             icon: arrowRight
             iconPosition: right
             style: secondary
