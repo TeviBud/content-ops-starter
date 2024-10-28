@@ -45,7 +45,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Application Development
-        price: $99
+        price: $5000
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
