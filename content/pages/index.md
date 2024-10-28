@@ -685,7 +685,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: drop us a line
+      text: 'Drop A Line '
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
