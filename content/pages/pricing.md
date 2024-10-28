@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     plans:
-      - title: Web/App Development
+      - title: Website Development
         price: $500
         details: starting price
         description: >-
