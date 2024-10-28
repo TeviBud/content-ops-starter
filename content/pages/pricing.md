@@ -46,7 +46,7 @@ sections:
         type: PricingPlan
       - title: Application Development
         price: $5000
-        details: per month
+        details: starting price
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
