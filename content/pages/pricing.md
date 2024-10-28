@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: Web/App Development
-        price: starting at $500
+        price: $500
         details: stating price
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
