@@ -14,9 +14,10 @@ sections:
       - title: Website Development
         price: $500
         details: starting price
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Our team will bring your vision to life by developing a custom website
+          tailored to your specific needs
+
         features:
           - Feature one
           - Feature two
