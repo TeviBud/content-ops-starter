@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     plans:
       - title: Web/App Development
-        price: Free
+        price: $500
         details: No credit card required
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
